@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 fresh content to be push on repository
-=======
-newfile.txt
->>>>>>> 04ee7b84ad7a518b36a04cc708a40274a35de8f5
